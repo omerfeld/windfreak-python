@@ -6,7 +6,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='windfreak-O',
+    name='windfreak',
     version='0.3.0',
     author='Christian Hahn',
     author_email='christianhahn09@gmail.com',
